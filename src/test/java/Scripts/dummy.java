@@ -7,7 +7,6 @@ public class dummy
 	@Test
 	public void dum()
 	{
-		System.out.println("Hi");
+		System.out.println("hi ");
 	}
-
 }
